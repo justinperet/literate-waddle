@@ -25,7 +25,7 @@ We will use group me in order to see how far the other group is and how much the
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+We will all check in on our group me at one day before the deadline is due to make sure that we are all staying on task and that we are not having any difficulties.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
