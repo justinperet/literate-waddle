@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
+# xteam-exercise-2: https://github.com/justinperet/literate-waddle
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
@@ -7,13 +7,12 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+       * GitHub username 1: Parks179 name 1: Parker
+       * GitHub username 2: justinperet name 2: Justin
+       * GitHub username 3: lobstertuxedo name 3: India
+       * GitHub username 4: angevin17 name 4: Vinnie
+   * When did you complete this exercise? 5:18PM 10/22/18
+   * How long did it take your team to complete this exercise? An hour and 18 minutes
 
 ## Table of Contents
 
