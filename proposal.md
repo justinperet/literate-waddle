@@ -50,11 +50,11 @@ Song Title, Artist, Album Name, Duration
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-There will be a form that has text boxes where the user can put in all the information about the song. (Ex. text field for song title, artist, ext). After the user is done filling in all of the information, they can press submit and the song will be added to the playlist. There will also be buttons that have titles like print songs, lookup a specific song, or output the playlist in a certain way.
+
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+Songs node class, a playlist class and a test class.
 
 Name each interface or class and briefly describe its function or purpose.
 
