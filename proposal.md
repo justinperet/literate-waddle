@@ -46,7 +46,7 @@ Our problem is that we want a way to store all of our music into one playlist an
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+Song Title, Artist, Album Name, Duration
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
