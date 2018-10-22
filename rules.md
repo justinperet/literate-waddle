@@ -18,7 +18,7 @@ Hello
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+We will use the group me app if we need help.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
