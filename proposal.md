@@ -42,7 +42,7 @@ Notify
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+There are two main outputs, you can lookup a song title and get the relevant information on it, or we can give you a list of the songs in a playlist.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
