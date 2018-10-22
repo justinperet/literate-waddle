@@ -21,7 +21,7 @@ We will use group me in order to see how far the other group is and how much the
 
 ## How will we communicate difficulties with a task assigned to us
 
-
+Express difficulties in group me and if problems cannot be resolved schedule an in person meeting.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
@@ -30,4 +30,4 @@ We will all check in on our group me at one day before the deadline is due to ma
 ## Add any other rules that your team establishes to help each other work effectively together
 
 Start projects early
-
+Be positive
