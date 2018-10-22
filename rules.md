@@ -10,15 +10,15 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-Hello
+
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will use group me in order to see how far the other group is and how much the group has left to do before the deadline.
 
 ## How will will communicate difficulties with a task assigned to us
 
-Express difficulties in group me and if problems cannot be resolved schedule an in person meeting.
+
 
 ## How we will back up each other to ensure that deadlines are not missed
 
@@ -26,5 +26,5 @@ Express difficulties in group me and if problems cannot be resolved schedule an 
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-Be positive
+
 
