@@ -16,13 +16,13 @@ Hello
 
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
-We will use the group me app if we need help.
+
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+We will all check in on our group me at one day before the deadline is due to make sure that we are all staying on task and that we are not having any difficulties.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
