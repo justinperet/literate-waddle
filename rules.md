@@ -18,7 +18,7 @@ Hello
 
 ## How will will communicate difficulties with a task assigned to us
 
-We will use the group me app if we need help.
+Express difficulties in group me and if problems cannot be resolved schedule an in person meeting.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
@@ -26,5 +26,5 @@ We will use the group me app if we need help.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-
+Be positive
 
