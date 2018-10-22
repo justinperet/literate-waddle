@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 061 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -10,13 +10,16 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
+Split into two groups of two. Each group of two takes a method of choice. 
+If we find we need a helper method communicate as a large group and assign the group that needs the helper method to the new method.
+
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
 We will use group me in order to see how far the other group is and how much the group has left to do before the deadline.
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
 
 
@@ -26,5 +29,5 @@ We will use group me in order to see how far the other group is and how much the
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-
+Start projects early
 
