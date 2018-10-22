@@ -10,11 +10,11 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-Hello
+
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will use group me in order to see how far the other group is and how much the group has left to do before the deadline.
 
 ## How will we communicate difficulties with a task assigned to us
 
