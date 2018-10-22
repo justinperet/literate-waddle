@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team NN Notify
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -38,7 +38,7 @@ Our problem is that we want a way to store all of our music into one playlist an
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+Notify
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
