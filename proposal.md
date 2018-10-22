@@ -54,7 +54,7 @@ Song Title, Artist, Album Name, Duration
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+Song node class, Playlist class, and Test Class
 
 Name each interface or class and briefly describe its function or purpose.
 
