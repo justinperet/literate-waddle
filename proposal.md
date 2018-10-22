@@ -1,4 +1,4 @@
-# X-Team NN Notify
+# X-Team 061 Notify
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -54,10 +54,13 @@ Song Title, Artist, Album Name, Duration
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-Songs node class, a playlist class and a test class.
+
 
 Name each interface or class and briefly describe its function or purpose.
 
+Song node class - store information about the song
+Playlist class - our implementation of a linked list song nodes
+Test class - test implementation of program
 
 ## Edit and Submit this file and any figures referenced by this document.
 
